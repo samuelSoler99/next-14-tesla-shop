@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97895cfc-2530-4093-878d-6df0253f90fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/admin/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/admin/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/cart/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/cart/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/category/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/category/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/category/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/category/not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/checkout/address/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/checkout/address/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/checkout/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/checkout/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/empty/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/empty/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/orders/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/orders/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/orders/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/orders/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/product/[slug]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/product/[slug]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(shop)/products/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(shop)/products/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/new-account/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/new-account/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/sidebar/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/top-menu/TopMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/top-menu/TopMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/product.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/product.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seed/seed.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/seed/seed.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2cSCK8cbWETXe7f33LdWyO3q34a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/sam/Desktop/Next/04-teslo-shop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\sam\\Desktop\\Next\\04-teslo-shop\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97895cfc-2530-4093-878d-6df0253f90fe" name="Changes" comment="" />
+      <created>1708095525747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708095525747</updated>
+      <workItem from="1708095528519" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
