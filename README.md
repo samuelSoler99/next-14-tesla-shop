@@ -20,5 +20,4 @@ todo: Faltaria agregar/sustituir un sistema de logs, actualmente hay muchos cons
 7. limpiar el localStorage del navegador.
 8. Correr el proyecto ```npm run dev```
 
-
 ## Modo prod
