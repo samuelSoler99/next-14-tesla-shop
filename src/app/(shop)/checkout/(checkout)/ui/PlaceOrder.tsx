@@ -35,7 +35,6 @@ export const PlaceOrder = () => {
         }))
         //server action
         const respose = await placeOrder(productsToOrder, address);
-        console.log(respose);
 
         if (!respose.ok) {
             setIsPlacingOrder(false);
@@ -101,8 +100,7 @@ export const PlaceOrder = () => {
                 <p className="text-red-500">{errorMessage}</p>
 
                 <button
-                    onClick={onPLaceOrder}
-                    //   href={'/orders/123'} 
+                    onClick={onPLaceOrder} 
                     className={
                         clsx({
                             "btn-primary": !isPlacingOrder,

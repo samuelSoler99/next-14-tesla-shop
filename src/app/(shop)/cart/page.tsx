@@ -5,8 +5,6 @@ import { OrderSummary } from "./ui/OrderSummary";
 
 export default function cartPage() {
 
-  // redirect('/empty');
-
   return (
     <div className="flex justify-center items-center mb-72 px-10 sm:px-0">
 
@@ -39,13 +37,9 @@ export default function cartPage() {
               </Link>
             </div>
 
-
           </div>
-
         </div>
-
       </div>
-
     </div>
   );
 }

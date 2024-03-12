@@ -16,15 +16,16 @@ export async function generateMetadata(
   const slug = params.slug
 
   const product = await getProductBySlug(slug);
+
+  console.log(process.env.VERCEL_URL)
   return {
-    metadataBase: new URL('https://c693-2a0c-5a86-d107-8c00-a4ae-6f5e-ce8d-7a95.ngrok-free.app'),
     title: product?.title ?? 'Producto no encontrado',
     description: product?.description ?? '',
     openGraph: {
       title: product?.title ?? 'Producto no encontrado',
       description: product?.description ?? '',
       // se busca images: ['https://misitioweb.com/productos/prod-1/image.png']
-      images: [`/products/${product?.images[1]}`],
+      images: [{ url: `/products/${product?.images[1]}`, width: 600, height: 800 }],
     },
   }
 }
